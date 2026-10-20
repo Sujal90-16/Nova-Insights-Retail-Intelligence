@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this educational project, please cite it as below."
+title: "Nova Insights — Retail Intelligence Studio"
+authors:
+  - family-names: Singh
+    given-names: Sujal
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+type: software
